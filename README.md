@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 #### Projects with actual merit to check out;
-[robloxrpc, Roblox Rich Presence for Discord.](https://github.com/atpowpow/robloxrpc)
+[4dx, auto-downloader for 4chan archives.](https://github.com/atpowpow/4dx)
+<br>[robloxrpc, Roblox Rich Presence for Discord.](https://github.com/atpowpow/robloxrpc)
 <br>[dissonance, Boilerplate Discord bot code with cog support.](https://github.com/atpowpow/dissonance)
 <br>[r34dx, Rule34.xxx image and video downloader. Very buggy.](https://github.com/atpowpow/r34dx)
 <br> [dfdx, MrDeepFakes video downloader userscript.](https://github.com/atpowpow/dfdx)
